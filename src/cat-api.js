@@ -2,6 +2,7 @@ import axios from 'axios';
 import SlimSelect from 'slim-select';
 import Notiflix from 'notiflix';
 
+//key
 const apiKey =
   'live_jse5YW5ZnfmTqBQ1QjJbCTChLoFru9zQgMcK4sLm7FK2sebo73NiFhvHpu91w4Eu';
 
